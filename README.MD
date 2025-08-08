@@ -1,8 +1,24 @@
+# Proudly Open Source
+
+[![GitHub stars](https://img.shields.io/github/stars/decodewithdeepak/Portfolio.svg)](https://github.com/decodewithdeepak/Portfolio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/decodewithdeepak/Portfolio.svg)](https://github.com/decodewithdeepak/Portfolio/network)
+[![GitHub issues](https://img.shields.io/github/issues/decodewithdeepak/Portfolio.svg)](https://github.com/decodewithdeepak/Portfolio/issues)
+
+**This portfolio is proudly open source. Anyone is welcome to use, fork, and customize it for their own personal or professional website. Just clone the repository, update your details, and make it your own!**
+
 # Deepak Modi - Portfolio Website for a Full Stack Developer
 
 Welcome to **My Portfolio**! This is my personal portfolio for showcasing my skills, projects, experience, education, certifications, and more. It’s built using React, TypeScript, Tailwind CSS, and other modern web technologies. It fetches data from various APIs to display the latest information, such as GitHub repositories, LeetCode submissions, and blogs. The portfolio is responsive, interactive, and optimized for performance.
 
 Check it out live at: [https://deepakmodi.vercel.app/](https://deepakmodi.vercel.app/)
+
+## Proudly Open Source
+
+This project is open source, so feel free to fork, clone, and make
+
+[![GitHub stars](https://img.shields.io/github/stars/decodewithdeepak/Portfolio.svg)](https://github.com/decodewithdeepak/Portfolio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/decodewithdeepak/Portfolio.svg)](https://github.com/decodewithdeepak/Portfolio/network)
+[![GitHub issues](https://img.shields.io/github/issues/decodewithdeepak/Portfolio.svg)](https://github.com/decodewithdeepak/Portfolio/issues)
 
 ---
 
@@ -33,6 +49,7 @@ Check it out live at: [https://deepakmodi.vercel.app/](https://deepakmodi.vercel
 ---
 
 ## 📂 **Directory Structure**
+
 ```
 └── decodewithdeepak-portfolio/
     ├── README.MD

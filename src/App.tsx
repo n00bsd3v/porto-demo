@@ -17,6 +17,7 @@ import { LoadingScreen } from './components/loading/LoadingScreen';
 import { useLoading } from './hooks/useLoading';
 import { CustomCursor } from "./components/ui/CustomCursor";
 import { ScrollToTop } from "./components/ui/ScrollToTop";
+import { GithubStarsButton } from "./components/ui/GithubStarsButton";
 import { Analytics } from '@vercel/analytics/react';
 
 function App() {
@@ -42,6 +43,7 @@ function App() {
         <Contact />
         <Footer />
         <ScrollToTop />
+        <GithubStarsButton />
         <Analytics />
       </div>
     </>

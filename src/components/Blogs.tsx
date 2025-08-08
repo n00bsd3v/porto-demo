@@ -18,7 +18,7 @@ export function Blogs() {
             </p>
           ) : (
             <>
-              <div className="max-w-6xl mx-auto grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+              <div className="max-w-6xl mx-auto flex flex-col gap-6">
                 {blogs.map((blog) => (
                   <BlogCard key={blog.slug} {...blog} />
                 ))}
